@@ -1,0 +1,8 @@
+.DS_Store
+Plaque_on_imaging/*.aux
+Plaque_on_imaging/*.idx
+Plaque_on_imaging/*.log
+Plaque_on_imaging/*.out
+Plaque_on_imaging/*.synctex.gz
+Plaque_on_imaging/*.toc
+
